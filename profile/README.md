@@ -19,6 +19,8 @@ Turaan - bu uzluksiz xarid qilish tajribasini ta'minlash uchun zamonaviy texnolo
 
 - **Back-end and Database:**
   - Firebase
+  - Go
+  - Postgre SQL
 
 ### Contributors
 
