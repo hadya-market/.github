@@ -58,7 +58,7 @@ Turaan is an e-commerce platform built with modern technologies to provide a sea
 
 ### Contributors
 
-- [Abdurahmon27](https://github.com/abdurahmon27) - Lead developer
+- [Abdurahmon27](https://github.com/abdurahmon27) - Lead developer(Project Manager)
 
 ### Features
 
